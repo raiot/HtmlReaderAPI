@@ -1,0 +1,7 @@
+##GET http://localhost:5000/api/parser
+
+
+POST http://localhost:5000/api/parser
+Content-Type: application/json
+
+"#tete|*uno|*dos"
